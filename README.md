@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!--
+#<!--
 **koy1619/koy1619** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +13,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+#-->
+
+[![Twitter: ThaiiBraga](https://img.shields.io/twitter/follow/koy1619?style=social)](https://twitter.com/koy1619)
+[![GitHub Thaiane](https://img.shields.io/github/followers/koy1619?label=follow&style=social)](https://github.com/koy1619)
+
+![Ryan's github stats](https://github-readme-stats.vercel.app/api?username=koy1619&show_icons=true&hide_border=false)
